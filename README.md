@@ -1,5 +1,5 @@
 # HiMaP
-Resources for Rahul Mishra ["Fake news detection using higher-order user to user mutual-attention progression in propagation paths"](https://ieeexplore.ieee.org/abstract/document/9356134http://openaccess.thecvf.com/content_CVPRW_2020/papers/w39/Mishra_Fake_News_Detection_Using_Higher-Order_User_to_User_Mutual-Attention_Progression_CVPRW_2020_paper.pdf). Media forensic@CVPR2020.  
+Resources for Rahul Mishra ["Fake news detection using higher-order user to user mutual-attention progression in propagation paths"](http://openaccess.thecvf.com/content_CVPRW_2020/papers/w39/Mishra_Fake_News_Detection_Using_Higher-Order_User_to_User_Mutual-Attention_Progression_CVPRW_2020_paper.pdf). Media forensic@CVPR2020.  
 ## References
 Please cite the following paper:
 ~~~~
