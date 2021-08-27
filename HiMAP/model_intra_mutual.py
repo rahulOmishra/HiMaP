@@ -58,7 +58,8 @@ class Model(object):
 
         concat = tf.concat([u1_increase, u2_increase], axis=-1)
 
-        '''This how intra mutual attention works: let's consider a case where the propagation path has only two Users and each learned user embedding has 3 dimensions
+        '''
+        This how intra mutual attention works: let's consider a case where the propagation path has only two Users and each learned user embedding has 3 dimensions
         therefore embedding matrix will be somewhat like:
         [[----1----]
         [----2----]].  (2*3)
